@@ -1,3 +1,2 @@
-# Noise-Robust Image Classification
+# Adaptive aggregation of Monte Carlo augmented decomposed filters for efficient group-equivariant convolutional neural network
 
-The link for the trained models: 
