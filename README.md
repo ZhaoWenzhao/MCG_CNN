@@ -17,3 +17,4 @@
 
 [https://github.com/gaoliyao/Roto-scale-translation-Equivariant-CNN](https://github.com/gaoliyao/Roto-scale-translation-Equivariant-CNN)
 
+[https://github.com/hellloxiaotian/DudeNet](https://github.com/hellloxiaotian/DudeNet)
