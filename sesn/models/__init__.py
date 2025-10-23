@@ -10,3 +10,5 @@ from .mnist_ses import mnist_ses_scalar_28p, mnist_ses_scalar_56p, mnist_ses_vec
 
 from .mnist_ses_rst import mnist_ses_rst_vector_56_rot_8_interrot_8 #mnist_ses_rst_scalar_28p, mnist_ses_rst_scalar_56p, mnist_ses_rst_vector_28p, mnist_ses_rst_vector_56p
 from .mnist_resnet_rst_mcg_e import resnext50_32x4d_rst_mcg_e,resnext101_32x8d_rst_mcg_e,wide_resnet50_2_rst_mcg_e,resnext26_32x4d_rst_mcg_e
+
+from .stl_resnet_rst_mcg_a import resnext50s_32x4d_rst_mcg_a
